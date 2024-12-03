@@ -2,7 +2,7 @@
 
 * [خانه](README.md)
 * [مدیریت محصول](productManagement.md)
-* [مدیرمحصول](productManager.md)
+* [مدیر محصول](productManager.md)
 * [کشف محصول](productDiscovery.md)
 * [راهبرد محصول](productStrategy.md)
 * [نقشه‌راه](roadmap.md)
