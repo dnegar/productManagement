@@ -8,6 +8,7 @@
 - [مهارت‌ها](skills/skills.md)
 - [نقشه‌راه](roadmap.md)
 - [روش‌ها](methods.md)
+- [تجزیه و تحلیل محصول](productAnalytics.md)
 - [کارانباشت](backlog.md)
 - [مدیریت ذینفعان](stakeholderManagement.md)
 - [تاریخچه تغییرات](changelog.md)
